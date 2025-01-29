@@ -1,0 +1,142 @@
+{
+    "6º ano ALFA  ": {
+        "indices_utilizados": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ],
+        "proximo_indice": 5
+    },
+    "6º ano BRAVO  ": {
+        "indices_utilizados": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ],
+        "proximo_indice": 5
+    },
+    "6º ano DELTA  ": {
+        "indices_utilizados": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ],
+        "proximo_indice": 5
+    },
+    "7º ano ALFA  ": {
+        "indices_utilizados": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ],
+        "proximo_indice": 5
+    },
+    "7º ano BRAVO  ": {
+        "indices_utilizados": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ],
+        "proximo_indice": 5
+    },
+    "7º ano CHARLIE  ": {
+        "indices_utilizados": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ],
+        "proximo_indice": 5
+    },
+    "7º ano DELTA  ": {
+        "indices_utilizados": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ],
+        "proximo_indice": 5
+    },
+    "8º ano ALFA  ": {
+        "indices_utilizados": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ],
+        "proximo_indice": 5
+    },
+    "8º ano BRAVO  ": {
+        "indices_utilizados": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ],
+        "proximo_indice": 5
+    },
+    "8º ano CHARLIE  ": {
+        "indices_utilizados": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ],
+        "proximo_indice": 5
+    },
+    "8º ano DELTA  ": {
+        "indices_utilizados": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ],
+        "proximo_indice": 5
+    },
+    "8º ano ECHO  ": {
+        "indices_utilizados": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ],
+        "proximo_indice": 5
+    },
+    "9º ano ALFA  ": {
+        "indices_utilizados": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ],
+        "proximo_indice": 5
+    },
+    "9º ano BRAVO  ": {
+        "indices_utilizados": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ],
+        "proximo_indice": 5
+    }
+}
